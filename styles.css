@@ -45,6 +45,7 @@ hr {
   overflow: hidden;
   border-radius: 12px;
   position: relative;
+  box-shadow: 0 0 30px 12px rgba(113,113,113,0.42);
 }
 
 .centered {
